@@ -1,4 +1,4 @@
-# SureStart-VAIL
+# Sure Start VAIL Program
 A repository for the SureStart VAIL 2021 Program that I am completing as an AI and Machine Learning trainee.
 
 # Responses
