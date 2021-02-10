@@ -13,7 +13,7 @@ I am an undergraduate student studying Neuroscience at Boston University and I a
 
 ### Day 2: (02/09/21): Introduction to Machine Learning (ML) and Scikit-Learn
 
-Materials for day 2 can be found [here.](Day_2_INTRODUCTION_TO_MACHINE_LEARNING_(ML)_AND_SCIKIT-LEARN.md)
+Materials for day 2 can be found [here.](Day2.md)
 
 1. What is the difference between supervised and unsupervised learning? 
 Supervised Learning refers to a program that has been trained on a pre defined set of training examples. The main goal is to come up with a predictor function ```h(x)``` that uses mathematical algorithms to optimize this function so that the given data input ```x``` predicts the ```h(x)``` value.
