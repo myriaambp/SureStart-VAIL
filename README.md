@@ -13,10 +13,10 @@ Program includes techincal skill training on:
 
 Materials for day 3 can be found [here]
 
-1.What are “Tensors” and what are they used for in Machine Learning? 
+1. What are “Tensors” and what are they used for in Machine Learning? 
 TensorFlow is an open source library created by Google for numerical computation and machine learning. It uses ML and deep learning, such as neural networking models and algorithms. It is inspired by the way that the brain functions.
 
-2.What did you notice about the computations that you ran in the TensorFlow
+2. What did you notice about the computations that you ran in the TensorFlow
 programs (i.e. interactive models) in the tutorial?
 Tensorflow uses components and basis vectors, where basis vectors transform one way between reference frames and the components transform in just such a way as to keep the combination between components and basis vectors the same.
 
