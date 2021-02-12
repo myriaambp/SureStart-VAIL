@@ -9,6 +9,20 @@ Program includes techincal skill training on:
 
 ## Responses
 
+### Day 4: (02/11/21): What is Deep Learning?
+
+Today, I had to think about a real-world problem and see if I could find a dataset that has the characteristics of the data of that problem. Then, I had to think about the deep learning algorithm that I would likely use to develop a solution to it. 
+
+There have been a lot of developments made in the technology and algorithms used to to track cells. Specifically, this is relevant in neurodegenerative diseases, such as Alzheimer's Disease. A deep learning machine that could track and or categorize abnormal cells and/or proteins could help to diagnose the disease earlier on and would lead to faster treatment. 
+
+Data set: OASIS-1: [Cross-sectional MRI Data in Young, Middle Aged, Nondemented and Demented Older Adults](https://www.oasis-brains.org)
+
+This data set consists of a cross-sectional collection of T1-weighted MRI scans that include subjects with no AD, very mild AD and moderate AD. A classification approach using convuolutional neural networks could be used to classify these images quickly into levels of AD onset. I would choose this approach because CNNs have the ability to process images in an efficient manner.
+
+[Difference between AD brain and normal brain](https://core4.bmctoday.net/storage/images/1559306926-0619_CF3_Fig2.png) and the [Source](https://practicalneurology.com/articles/2019-june/brain-imaging-in-differential-diagnosis-of-dementia)
+
+Classification would depend on sizes and shapes of neuronal loss in the brain. Shades of the pixels would also need to be considered where darker shades would represent the neuronal loss as there is no activity in those parts of the brain. It would then classify the images as no AD, mild AD and severe AD. Then an NN algorithm would be implemented, I have also read that an [ELM](https://ieeexplore.ieee.org/document/6583856) (Extreme Learning Machine) would be effective in doing this faster.
+
 ### Day 3: (02/10/21): Introduction to ML and TensorFlow
 
 Materials for day 3 can be found [here]
