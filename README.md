@@ -9,6 +9,16 @@ Program includes techincal skill training on:
 
 ## Responses
 
+### Day 5: (02/12/21): What are Neural Networks (NN)?
+
+Materials for [day 5](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%205%20-%20What%20are%20Neural%20Networks) can be found here.
+
+Today I reviewed the [guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) from yesterday on the common components of Neural Networks, and how they work with different ML functions and algorithms, (i.e. Neuron, Weights, Bias, Functions, Sigmoid, Softmax, Input vs Output, etc.)
+
+Using this [database](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection), I chose one a creators code to try to follow, [Saai Sudarsanan](https://www.kaggle.com/saaisudarsanand/sarcasm-detection-using-tf-keras). 
+
+I created a Kaggle Notebook that had a 92% accuracy rate and I tried to output his code using TF Keras. The model includes examples of the sigmoid and relu activation functions.
+
 ### Day 4: (02/11/21): What is Deep Learning?
 
 Today, I had to think about a real-world problem and see if I could find a dataset that has the characteristics of the data of that problem. Then, I had to think about the deep learning algorithm that I would likely use to develop a solution to it. 
