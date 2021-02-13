@@ -35,7 +35,7 @@ Classification would depend on sizes and shapes of neuronal loss in the brain. S
 
 ### Day 3: (02/10/21): Introduction to ML and TensorFlow
 
-Materials for day 3 can be found [here]
+Materials for day 3 can be found [here](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%203%20-%20Introduction%20to%20ML%20and%20Tensor%20Flow)
 
 1. What are “Tensors” and what are they used for in Machine Learning? 
 TensorFlow is an open source library created by Google for numerical computation and machine learning. It uses ML and deep learning, such as neural networking models and algorithms. It is inspired by the way that the brain functions.
