@@ -17,7 +17,7 @@ Today I reviewed the [guide](https://serokell.io/blog/deep-learning-and-neural-n
 
 Using this [database](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection), I chose one a creators code to try to follow, [Saai Sudarsanan](https://www.kaggle.com/saaisudarsanand/sarcasm-detection-using-tf-keras). 
 
-I created a Kaggle Notebook that had a 92% accuracy rate and I tried to output his code using TF Keras. The model includes examples of the sigmoid and relu activation functions.
+I created a Kaggle Notebook that had a 92% accuracy rate and I tried to output his code using TF Keras. The model includes examples of the sigmoid and relu activation functions. Lines 57 and 60 contain errors that I was unable to fix, that evaluate the accuracy of the model, however, the rest functioned well.
 
 ### Day 4: (02/11/21): What is Deep Learning?
 
