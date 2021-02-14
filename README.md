@@ -9,6 +9,16 @@ Program includes techincal skill training on:
 
 ## Responses
 
+## Week 2 - CNN, Data and Machine Learning
+
+### Day 8: Introduction to Convolutional Neural Networks (CNN)
+
+Materials for [Day 8]
+
+
+
+## Week 1 - The Basics
+
 ### Day 5: (02/12/21): What are Neural Networks (NN)?
 
 Materials for [day 5](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%205%20-%20What%20are%20Neural%20Networks) can be found here.
