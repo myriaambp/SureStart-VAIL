@@ -13,15 +13,17 @@ Program includes techincal skill training on:
 
 ### Day 8: Introduction to Convolutional Neural Networks (CNN)
 
-Materials for [Day 8]
+Materials for [Day 8](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%208%20-%20Introduction%20to%20Convolutional%20Neural%20Networks%20(CNN))
 
+Today, I evaluated the model performance by looking at the confusion matrices for the MNIST data set and compared it to the performance reported in the original [Kaggle Tutorial Notebook](https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial) that used a smaller subset of the data. From the confusion matrix I obtained, you can see that I got a higher accuracy than the original Tutorial Notebook. This is most likely due to the fact that the model had more data to train with initially.
+The recall was much higher, where my confusion matrix was getting up to 679 correct, whilst the tutorial matrix had a maximum of 477 predictions correct.
 
 
 ## Week 1 - The Basics
 
 ### Day 5: (02/12/21): What are Neural Networks (NN)?
 
-Materials for [day 5](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%205%20-%20What%20are%20Neural%20Networks) can be found here.
+Materials for [day 5](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%205%20-%20What%20are%20Neural%20Networks)
 
 Today I reviewed the [guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) from yesterday on the common components of Neural Networks, and how they work with different ML functions and algorithms, (i.e. Neuron, Weights, Bias, Functions, Sigmoid, Softmax, Input vs Output, etc.)
 
@@ -45,7 +47,7 @@ Classification would depend on sizes and shapes of neuronal loss in the brain. S
 
 ### Day 3: (02/10/21): Introduction to ML and TensorFlow
 
-Materials for day 3 can be found [here](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%203%20-%20Introduction%20to%20ML%20and%20Tensor%20Flow)
+Materials for [Day 3](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%203%20-%20Introduction%20to%20ML%20and%20Tensor%20Flow)
 
 1. What are “Tensors” and what are they used for in Machine Learning? 
 TensorFlow is an open source library created by Google for numerical computation and machine learning. It uses ML and deep learning, such as neural networking models and algorithms. It is inspired by the way that the brain functions.
@@ -57,7 +59,7 @@ Tensorflow uses components and basis vectors, where basis vectors transform one 
 
 ### Day 2: (02/09/21): Introduction to Machine Learning (ML) and Scikit-Learn
 
-Materials for day 2 can be found [here](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%202%20-%20INTRODUCTION%20TO%20MACHINE%20LEARNING%20(ML)%20AND%20SCIKIT-LEARN)
+Materials for [Day 2](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%202%20-%20INTRODUCTION%20TO%20MACHINE%20LEARNING%20(ML)%20AND%20SCIKIT-LEARN)
 
 1. What is the difference between supervised and unsupervised learning? 
 Supervised Learning refers to a program that has been trained on a pre defined set of training examples. The main goal is to come up with a predictor function ```h(x)``` that uses mathematical algorithms to optimize this function so that the given data input ```x``` predicts the ```h(x)``` value.
@@ -67,4 +69,5 @@ Unsupervised Learning refers to a program that is given a bunch of data and must
 This statement is false because ```scikit-Learn``` is a library in python that provides unsupervised and supervised learning algorithms. It does not have the power to visualize data, that is why we need to import other libraries to visualize it.
 
 ### Day 1: (02/08/21): Introduction to SureStart
+
 I am an undergraduate student studying Neuroscience at Boston University and I am excited to be introduced into the world of AI and Machine Learning! I specifically want to learn techniques that will complement computational neuroscience, such as creating neural networks that can mimic brain pathways. I am also interested in the application that this field has in medicinal and health sciences. I think this a great opportunity that will prepare me not only for future elective classes that I will take, but also I hope to gain skills that will make me a competitive candidate in the marketplace.
