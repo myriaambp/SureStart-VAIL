@@ -11,6 +11,17 @@ Program includes techincal skill training on:
 
 ## Week 2 - CNN, Data and Machine Learning
 
+### Day 9: Algorithmic Bias and Data sets
+
+Today, I played [Survival of the Best Fit](https://www.survivalofthebestfit.com) to learn more about how AI might impact human resources and hiring processes in different fields.
+
+1.How do you think Machine Learning or AI concepts were utilized in the design of this game?
+In this game, classification was used to decide whether to hire or reject an applicant. The training data that is used came from the manual hiring process that I completed at the start of the game. In this case, I was hiring based on ambition and tended to hire more orange people than blue. Therefore, once the machine algorithm had trained with this data set, it began to mimick the past hiring process behaviour and therefore rejected more blue than orange, even though there where blue candidates that where highly qualified. 
+
+2.Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
+
+The COMPAS system is a regression model used ot predict whether or not a perpetrator was likely to recidivate. However, the issue of the model was that it was predicting double the amount of false positives for African American ethnicities than for Caucasian ethnicites. See [here](https://aibusiness.com/document.asp?doc_id=761095). The problem was that it was traied on a dataset that had a very small number of features and that the model did not consider domain, questioning and the answers depending on racial and sexual components. Therefore, in order to imporve this model, it would be imperative to have a very large dataset that would account for components such as race and sex so that the model would not have human biases creeping into the model.
+
 ### Day 8: Introduction to Convolutional Neural Networks (CNN)
 
 Materials for [Day 8](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%208%20-%20Introduction%20to%20Convolutional%20Neural%20Networks%20(CNN))
