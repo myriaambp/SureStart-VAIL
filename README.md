@@ -11,6 +11,20 @@ Program includes techincal skill training on:
 
 ## Week 2 - CNN, Data and Machine Learning
 
+### Day 10: Neural Networks Layers
+
+A Convolutional Neural Network is a type of neural network composed of a convolution/pooling mechanism that breaks up the image into features and analyzes them and a fully connected layer that takes the output of convolution/pooling and predicts the best classifier for the image.
+- Much more efficient
+- Only connected to a few local neurons in previous layer with the same set of weights
+- Applications: Image processing and Computer Vision
+
+Whilst, a fully connected neural network is the network architecture, in which all neurons connect to all neurons in the next layer
+- In a fully connected layer, each neuron is connected to every neuon in previous layer (carrying its own weight)
+- Not very good for feature extraction
+- Applications: Not very efficient for image recognition and classification, as they are prone to overfitting. Used for solving buisness problems, such as sales and forecasting, customer research, data validation and risk managment.
+
+[Article](https://missinglink.ai/guides/convolutional-neural-networks/fully-connected-layers-convolutional-neural-networks-complete-guide/#section3)
+
 ### Day 9: Algorithmic Bias and Data sets
 
 Today, I played [Survival of the Best Fit](https://www.survivalofthebestfit.com) to learn more about how AI might impact human resources and hiring processes in different fields.
