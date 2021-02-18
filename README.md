@@ -11,6 +11,10 @@ Program includes techincal skill training on:
 
 ## Week 2 - CNN, Data and Machine Learning
 
+### Day 11: Neural Network Practice with MNIST Digits
+
+Following the guide to develop a [CNN for classifying MNIST datasets](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/), I was able to achieve a 99.250 % accuracy and the model was able to predict the correct number (7) from a sample image that I introduced it to.
+
 ### Day 10: Neural Networks Layers
 
 A Convolutional Neural Network is a type of neural network composed of a convolution/pooling mechanism that breaks up the image into features and analyzes them and a fully connected layer that takes the output of convolution/pooling and predicts the best classifier for the image.
