@@ -13,6 +13,8 @@ Program includes techincal skill training on:
 
 ### Day 11: Neural Network Practice with MNIST Digits
 
+Materials for [Day 11](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2011%20-%20Neural%20Network%20Practice%20with%20MNIST%20Digits)
+
 Following the guide to develop a [CNN for classifying MNIST datasets](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/), I was able to achieve a 99.250 % accuracy and the model was able to predict the correct number (7) from a sample image that I introduced it to.
 
 ### Day 10: Neural Networks Layers
