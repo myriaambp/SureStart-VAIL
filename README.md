@@ -11,6 +11,12 @@ Program includes techincal skill training on:
 
 ## Week 2 - CNN, Data and Machine Learning
 
+### Day 12: Image Classification and ML
+
+Materials for [Day 12](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2012%20-%20Image%20Classification%20and%20ML)
+
+Today, by using this Keras Kaggle Notebook, I learned how to build an Image Classification model, however, I changed the epoch size to 10 from 50 and preprocessed with option 2 (apply it to the dataset) instead of option 1 (make it part of the model). I noticed that the time it took for the model to train was much longer and obbviously the accuracy decreased with a lower epoch number.
+
 ### Day 11: Neural Network Practice with MNIST Digits
 
 Materials for [Day 11](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2011%20-%20Neural%20Network%20Practice%20with%20MNIST%20Digits)
