@@ -19,10 +19,10 @@ The Rectified Linear Activation Function (ReLU) is a piecewise linear function t
 
 1. Computational Simplicity: With the use of the max() function, ReLU becomes trivial to impliment and much cheaper than using exponential functions (sigmoid and tanH)
 2. Representational Sparsity: It outputs the true value zero, instead of approximating it like the tanh and sigmoid functions. Therefore, hidden layers are able to contain more than one true zero value.
-  - Application: Autoencoders, where network learns a compact representation of the code layer (images or series).
+    - Application: Autoencoders, where network learns a compact representation of the code layer (images or series).
 3. Linear Behaviour: It acts like a linear activation function and is therefore easier to optimize. This mostly gets rid of the vanishing gradients proplem because they stay proportional to the node actications
 4. Training Deep Networks: Exploits improvements in hardware and successfully is able to train deep multi-layered networks with backpropagation.
-  - Application: Boltzmann machines are no longer needed (stochastic recurrent neural network).
+    - Application: Boltzmann machines are no longer needed (stochastic recurrent neural network).
 
 [Source](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
 
