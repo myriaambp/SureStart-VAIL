@@ -11,6 +11,26 @@ Program includes techincal skill training on:
 
 ## Week 2 - CNN, Data and Machine Learning
 
+## Day 16: Activation Functions
+
+Material for [Day 16](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2016%20-%20Activation%20Functions)
+
+The Rectified Linear Activation Function (ReLU) is a piecewise linear function that will output the input directly if it is positive and if it is negative, it will ouput zero. It is easier to train that other activation functions, such as the sigmoid and TanH function and therefore achieves better performmance. The ReLU activation function has four main advantages: Computational Simplicity, Representation Sparsity, Linear Behavior and Training Deep Networks.
+
+1. Computational Simplicity: With the use of the max() function, ReLU becomes trivial to impliment and much cheaper than using exponential functions (sigmoid and tanH)
+2. Representational Sparsity: It outputs the true value zero, instead of approximating it like the tanh and sigmoid functions. Therefore, hidden layers are able to contain more than one true zero value.
+  - Application: Autoencoders, where network learns a compact representation of the code layer (images or series).
+3. Linear Behaviour: It acts like a linear activation function and is therefore easier to optimize. This mostly gets rid of the vanishing gradients proplem because they stay proportional to the node actications
+4. Training Deep Networks: Exploits improvements in hardware and successfully is able to train deep multi-layered networks with backpropagation.
+  - Application: Boltzmann machines are no longer needed (stochastic recurrent neural network).
+
+[Source](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+
+## Day 15: Ethics Driven ML Practice
+
+Materials for [Day 15](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2015%20-%20Ethics%20Driven%20ML%20Practice)
+
+
 ### Day 12: Image Classification and ML
 
 Materials for [Day 12](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2012%20-%20Image%20Classification%20and%20ML)
