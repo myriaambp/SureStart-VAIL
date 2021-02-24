@@ -9,7 +9,11 @@ Program includes techincal skill training on:
 
 ## Responses
 
-## Week 2 - CNN, Data and Machine Learning
+## Week 3 - Functions and Predictions
+
+## Day 17: Loss Functions
+
+Materials for [Day 17](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2017%20-%20Loss%20Functions)
 
 ## Day 16: Activation Functions
 
@@ -30,6 +34,7 @@ The Rectified Linear Activation Function (ReLU) is a piecewise linear function t
 
 Materials for [Day 15](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2015%20-%20Ethics%20Driven%20ML%20Practice)
 
+## Week 2 - CNN, Data and Machine Learning
 
 ### Day 12: Image Classification and ML
 
