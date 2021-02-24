@@ -15,6 +15,8 @@ Program includes techincal skill training on:
 
 Materials for [Day 17](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2017%20-%20Loss%20Functions)
 
+Today, we learned about loss functions and using housing price data from Zillow, I trained the data set using a Neural Network and then implemented a model that used the mean squared error loss function to compare how it does compared to other loss functions.
+
 ## Day 16: Activation Functions
 
 Material for [Day 16](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2016%20-%20Activation%20Functions)
