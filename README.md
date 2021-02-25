@@ -15,6 +15,14 @@ Program includes techincal skill training on:
 
 Materials for [Day 18](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2018%20-%20Data%20Overfitting%20and%20Regularization)
 
+Today, I used a hands on tutorial about differnt approaches to handle overfitting in deep learning models for a twitter dataset [(Twitter US Airline Sentiment data set)](https://www.kaggle.com/crowdflower/twitter-airline-sentiment). We compared three models for three methods of overfitting:
+1. Reduce the network’s capacity by removing layers or reducing the number of elements in the hidden layers.
+2. Apply regularization, which comes down to adding a cost to the loss function for large weights.
+3. Use Dropout layers, which will randomly remove certain features by setting them to zero.
+Overall, the accuracy fo the data was able to increase, although still relatively low (78.01%), all three options reduced overfitting, however, the dropout layer performed the best on the test data.
+
+For the Neural Network for Housing Prices that I completed yesterday (and added a model that used the mean squared error loss function), by looking at the model loss plot you could see that this loss function had the smallest loss for increasing epochs compared to the other models that used the binary crossentropy loss function.
+
 ## Day 17: Loss Functions
 
 Materials for [Day 17](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2017%20-%20Loss%20Functions)
