@@ -36,6 +36,8 @@ The Rectified Linear Activation Function (ReLU) is a piecewise linear function t
 
 Materials for [Day 15](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2015%20-%20Ethics%20Driven%20ML%20Practice)
 
+Today I built a gender classification model using a dataset of facial images. Unfortunately, the model was taking several hours to train, so I was unable to use the model to predict a gender. However, I got to fold 3 of 10 and the overall accuracy at that point was 94.67 %.
+
 ## Week 2 - CNN, Data and Machine Learning
 
 ### Day 12: Image Classification and ML
