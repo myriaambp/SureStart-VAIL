@@ -19,6 +19,7 @@ Today, I used a hands on tutorial about differnt approaches to handle overfittin
 1. Reduce the network’s capacity by removing layers or reducing the number of elements in the hidden layers.
 2. Apply regularization, which comes down to adding a cost to the loss function for large weights.
 3. Use Dropout layers, which will randomly remove certain features by setting them to zero.
+
 Overall, the accuracy fo the data was able to increase, although still relatively low (78.01%), all three options reduced overfitting, however, the dropout layer performed the best on the test data.
 
 For the Neural Network for Housing Prices that I completed yesterday (and added a model that used the mean squared error loss function), by looking at the model loss plot you could see that this loss function had the smallest loss for increasing epochs compared to the other models that used the binary crossentropy loss function.
