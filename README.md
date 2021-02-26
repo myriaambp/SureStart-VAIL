@@ -108,7 +108,7 @@ The recall was much higher, where my confusion matrix was getting up to 679 corr
 
 ### Day 5: (02/12/21): What are Neural Networks (NN)?
 
-Materials for [day 5](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%205%20-%20What%20are%20Neural%20Networks)
+Materials for [Day 5](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%205%20-%20What%20are%20Neural%20Networks)
 
 Today I reviewed the [guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) from yesterday on the common components of Neural Networks, and how they work with different ML functions and algorithms, (i.e. Neuron, Weights, Bias, Functions, Sigmoid, Softmax, Input vs Output, etc.)
 
