@@ -11,6 +11,12 @@ Program includes techincal skill training on:
 
 ## Week 3 - Functions and Predictions
 
+## Day 19: Upsampling and Autoencoders
+
+Materials for [Day 19](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2019%20-%20Upsampling%20and%20Autoencoders)
+
+Today, I completed an upsampling tutorial about adding upscaling layers to a deep learning model and followed an autoencoder tutorial used on the MNIST dataset.
+
 ## Day 18: Data Overfitting and Regularization
 
 Materials for [Day 18](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2018%20-%20Data%20Overfitting%20and%20Regularization)
