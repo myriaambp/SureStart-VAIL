@@ -11,6 +11,12 @@ Program includes techincal skill training on:
 
 ## Week 4 - Applications of Machine Learning
 
+## Day 23: Computer Vision (CV)
+
+Materials for [Day 23](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2023%20-%20Computer%20Vision%20(CV))
+
+Today I implemented an emotion detection project using OpenCV.
+
 ## Day 22: Natural Language Processing (NLP)
 
 It is important to consider the ethical implications of big NLP models, such as that of the GPT-2 model. This model is a large-scale unsupervised language model which generates paragraphs of text, performs on language modeling benchmarks and can do reading comprehension, machine translation, question answering and summarization. It's main goal is to predict the next word given some previous text.
