@@ -9,6 +9,13 @@ Program includes techincal skill training on:
 
 ## Responses
 
+## Week 4 - Applications of Machine Learning
+
+## Day 22: Natural Language Processing (NLP)
+
+It is important to consider the ethical implications of big NLP models, such as that of the GPT-2 model. This model is a large-scale unsupervised language model which generates paragraphs of text, performs on language modeling benchmarks and can do reading comprehension, machine translation, question answering and summarization. It's main goal is to predict the next word given some previous text.
+However, there are ethical implication of big NLP models such as the GPT-2, which is one of the reasons that it was not released. Some of the malicious applications could include generating misleading news articles, impersonating people online, automating the production of faked content on social medial and automating the production of spam. I think that it is a shame that due to malicious practices, models such as these cannot be used by the public. I think that public data and public models can advance research significantly by allowing cross-colaboration.
+
 ## Week 3 - Functions and Predictions
 
 ## Day 19: Upsampling and Autoencoders
