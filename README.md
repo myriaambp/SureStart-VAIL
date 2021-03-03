@@ -13,7 +13,7 @@ Program includes techincal skill training on:
 
 ## Day 24: Affective Computing
 
-Materials for[Day 24](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2024%20-%20Affective%20Computing).
+Materials for [Day 24](https://github.com/myriaambp/SureStart-VAIL/tree/main/Day%2024%20-%20Affective%20Computing).
 
 Today I implemented a Speech Emotion Analyzer model on the [RAVDESS Dataset](https://smartlaboratory.org/ravdess/), which consists of female and male actors voices. I used a Speech Emotion Recognition tutorial by [shivamburnwal](https://www.kaggle.com/shivamburnwal/speech-emotion-recognition). 
 I also followed a tutorial in order to record my own voice with pyaudio and wave.
